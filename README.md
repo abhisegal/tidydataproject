@@ -9,7 +9,7 @@ Steps to run the script file
 - Unzip the file from the following location
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-- Change the WD at top of script file to be set to the folder UCI HAR Dataset
+- Change the WD at top of script file to be set to the folder "UCI HAR Dataset"
 - Source the script file after placing it in wd
 - Run the steps below
 
